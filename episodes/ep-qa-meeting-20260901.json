@@ -1,0 +1,75 @@
+{
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫画人生",
+  "idempotencyKey": "qa-departure-meeting-20260901",
+  "episodeId": "ep-qa-meeting-20260901",
+  "title": "QA 离职交接会议",
+  "text": "会议主题：QA 离职交接会议\n会议时间：2026年9月1日\n参会人员：Kim, QA\n\n一、决议\n1. QA 提交辞呈，准备离开\n2. Kim 开始接收 QA 的 mac mini\n3. Kim 需要取得原本电脑中的服务\n\n二、待确认\n- 服务交接细节待确认",
+  "route": "P",
+  "recordedAt": "2026-09-01T00:00:00+08:00",
+  "eventDate": "2026-09-01",
+  "placement": "event",
+  "visualStatus": "ready",
+  "coverDirection": null,
+  "visualLayout": null,
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-01",
+  "pageAssets": [
+    {
+      "src": "assets/ep-qa-meeting-20260901/cover.png",
+      "alt": "QA 离职交接会议封面",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque"
+    },
+    {
+      "src": "assets/photo-01-resignation.png",
+      "alt": "辞职信",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque"
+    },
+    {
+      "src": "assets/photo-02-macmini.png",
+      "alt": "Mac mini 交接",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque"
+    },
+    {
+      "src": "assets/photo-03-services.png",
+      "alt": "服务转移",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque"
+    },
+    {
+      "src": "assets/ep-qa-meeting-20260901/vignette.png",
+      "alt": "Mac mini 交接插图",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "verified-transparent"
+    }
+  ],
+  "episodeNumber": 1,
+  "committedAt": "2026-08-31T16:06:31.751Z"
+}

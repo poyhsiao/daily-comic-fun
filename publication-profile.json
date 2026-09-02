@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.1.0",
+  "onboardingVersion": "ache-onboarding/1.1.0",
+  "designSystemVersion": "ache-design-system/1.6.0",
+  "bookId": "my-comic-life",
+  "title": "我的漫畫人生",
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "character": {
+    "mode": "none",
+    "ids": []
+  },
+  "publication": {
+    "primary": "local-html",
+    "localRoot": "/Users/kimhsiao/git/kimhsiao/daily-comic-fun",
+    "mirrors": []
+  },
+  "visualFallback": null,
+  "continuity": "weak",
+  "episodeCover": true,
+  "budget": "standard"
+}
