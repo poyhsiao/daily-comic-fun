@@ -9,7 +9,11 @@
     {
       "episodeId": "episode-2026-09-02",
       "href": "../../episodes/episode-2026-09-02/episode.json"
+    },
+    {
+      "episodeId": "episode-2026-09-03",
+      "href": "../../episodes/episode-2026-09-03/episode.json"
     }
   ],
-  "generated": "2026-09-02"
+  "generated": "2026-09-03"
 }

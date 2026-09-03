@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "bookId": "my-comic-life",
   "title": "我的漫畫人生",
-  "nextEpisodeNumber": 4,
+  "nextEpisodeNumber": 12,
   "months": [
     {
       "month": "2026-09",
@@ -31,7 +31,8 @@
   "idempotency": {
     "2026-09-01-daily-v5": "5d843add-c3ad-40d0-9908-ee4be98dff84",
     "qa-departure-meeting-20260901": "ep-qa-meeting-20260901",
-    "2026-09-02-daily": "episode-2026-09-02"
+    "2026-09-02-daily": "episode-2026-09-02",
+    "2026-09-03-daily": "episode-2026-09-03"
   },
   "updatedAt": "2026-09-01T14:38:06.004Z"
 }
