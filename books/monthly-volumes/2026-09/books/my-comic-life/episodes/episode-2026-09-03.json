@@ -1,0 +1,34 @@
+{
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-03-daily",
+  "episodeId": "episode-2026-09-03",
+  "title": "界線與秩序",
+  "text": "與 Bruce 協調公司伺服器對內、對外機器的設置與搭配。\n要求 RD 部門：Asana 票只能回答票的相關內容，不得超越職責隨意給建議。\n與 RD 溝通職場倫理問題。",
+  "route": "S",
+  "recordedAt": "2026-09-03T00:00:00+08:00",
+  "eventDate": "2026-09-03",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": null,
+  "visualLayout": null,
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-03",
+  "pageAssets": [],
+  "episodeNumber": 1,
+  "committedAt": "2026-09-03T13:20:57.791Z"
+}

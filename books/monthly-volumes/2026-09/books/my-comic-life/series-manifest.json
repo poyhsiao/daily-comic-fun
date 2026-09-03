@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "bookId": "my-comic-life",
+  "title": "我的漫畫人生",
+  "nextEpisodeNumber": 2,
+  "months": [
+    {
+      "month": "2026-09",
+      "href": "monthly-volumes/2026-09/continuous-edition/index.html",
+      "episodeCount": 1
+    }
+  ],
+  "parts": [
+    {
+      "part": "2026-Q3",
+      "href": "parts/2026-Q3/index.html",
+      "months": [
+        "2026-09"
+      ]
+    }
+  ],
+  "annuals": [
+    {
+      "year": "2026",
+      "href": "annuals/2026/index.html",
+      "months": [
+        "2026-09"
+      ]
+    }
+  ],
+  "idempotency": {
+    "2026-09-03-daily": "episode-2026-09-03"
+  },
+  "updatedAt": "2026-09-03T13:20:57.791Z"
+}
