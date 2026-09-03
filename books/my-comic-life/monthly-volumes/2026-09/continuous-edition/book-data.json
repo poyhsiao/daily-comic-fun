@@ -95,164 +95,6 @@
     {
       "bookId": "my-comic-life",
       "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "2026-09-02-daily",
-      "episodeId": "episode-2026-09-02",
-      "title": "肅穆與交付",
-      "text": "公司中元節團拜，我擔任主祭。沒有香燭的科技公司，卻在這天多了幾分肅穆。調解 RD 與 PM 的內容產出矛盾，雙方節奏不同，各自退一步就能對得上。優化 GitHub repo 的多平台視頻發布功能，上傳一次就能同步推到 YouTube、X、Bilibili。",
-      "route": "S",
-      "recordedAt": "2026-09-02T00:00:00+08:00",
-      "eventDate": "2026-09-02",
-      "placement": "event-date",
-      "visualStatus": "ready",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-02",
-      "pageAssets": [
-        {
-          "src": "assets/episode-2026-09-02/cover.png",
-          "alt": "肅穆與交付",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-01.png",
-          "alt": "中元節團拜",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-02.png",
-          "alt": "橋樑",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-03.png",
-          "alt": "交付",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 2,
-      "committedAt": "2026-09-02T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "2026-09-03-daily",
-      "episodeId": "episode-2026-09-03",
-      "title": "界線與秩序",
-      "text": "與 Bruce 協調公司伺服器對內、對外機器的設置與搭配。要求 RD 部門：Asana 票只能回答票的相關內容，不得超越職責隨意給建議。與 RD 溝通職場倫理問題。",
-      "route": "S",
-      "recordedAt": "2026-09-03T00:00:00+08:00",
-      "eventDate": "2026-09-03",
-      "placement": "event-date",
-      "visualStatus": "ready",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-03",
-      "pageAssets": [
-        {
-          "src": "assets/episode-2026-09-03/cover.png",
-          "alt": "界線與秩序",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-03/beat-01.png",
-          "alt": "協調伺服器",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-03/beat-02.png",
-          "alt": "規範 Asana 票",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-03/beat-03.png",
-          "alt": "職場倫理",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 3,
-      "committedAt": "2026-09-03T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
       "idempotencyKey": "2026-09-01-daily-v5",
       "episodeId": "5d843add-c3ad-40d0-9908-ee4be98dff84",
       "title": "2026年9月1日",
@@ -348,8 +190,166 @@
           "frameFitStatus": "matched"
         }
       ],
-      "episodeNumber": 4,
+      "episodeNumber": 2,
       "committedAt": "2026-09-01T00:00:00+08:00"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-02-daily",
+      "episodeId": "episode-2026-09-02",
+      "title": "肅穆與交付",
+      "text": "公司中元節團拜，我擔任主祭。沒有香燭的科技公司，卻在這天多了幾分肅穆。調解 RD 與 PM 的內容產出矛盾，雙方節奏不同，各自退一步就能對得上。優化 GitHub repo 的多平台視頻發布功能，上傳一次就能同步推到 YouTube、X、Bilibili。",
+      "route": "S",
+      "recordedAt": "2026-09-02T00:00:00+08:00",
+      "eventDate": "2026-09-02",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": null,
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-02",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-02/cover.png",
+          "alt": "肅穆與交付",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-02/beat-01.png",
+          "alt": "中元節團拜",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-02/beat-02.png",
+          "alt": "橋樑",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-02/beat-03.png",
+          "alt": "交付",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
+      "episodeNumber": 3,
+      "committedAt": "2026-09-02T00:00:00+08:00"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-03-daily",
+      "episodeId": "episode-2026-09-03",
+      "title": "界線與秩序",
+      "text": "與 Bruce 協調公司伺服器對內、對外機器的設置與搭配。要求 RD 部門：Asana 票只能回答票的相關內容，不得超越職責隨意給建議。與 RD 溝通職場倫理問題。",
+      "route": "S",
+      "recordedAt": "2026-09-03T00:00:00+08:00",
+      "eventDate": "2026-09-03",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": null,
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-03",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-03/cover.png",
+          "alt": "界線與秩序",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-01.png",
+          "alt": "協調伺服器",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-02.png",
+          "alt": "規範 Asana 票",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-03.png",
+          "alt": "職場倫理",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
+      "episodeNumber": 4,
+      "committedAt": "2026-09-03T00:00:00+08:00"
     }
   ]
 }
