@@ -9,9 +9,20 @@
   "recordedAt": "2026-09-07T00:00:00+08:00",
   "eventDate": "2026-09-07",
   "placement": "event-date",
-  "visualStatus": "pending",
-  "coverDirection": null,
-  "visualLayout": null,
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "電腦螢幕前的工程師視角，散落的便利貼與終端機",
+    "emotionVerb": "折騰、追蹤、協調",
+    "smallContrast": "一邊盯著KPI數字，一邊摸索新工具的可能性",
+    "grammar": "environment-transformation"
+  },
+  "visualLayout": {
+    "beats": [
+      {"beat": 1, "src": "assets/episode-2026-09-07/beat-01.png", "alt": "Q4 KPI 報告"},
+      {"beat": 2, "src": "assets/episode-2026-09-07/beat-02.png", "alt": "Hermes Workflow 研究"},
+      {"beat": 3, "src": "assets/episode-2026-09-07/beat-03.png", "alt": "新人討論 AI 報告規範"}
+    ]
+  },
   "style": {
     "id": "02-snow-pastel",
     "lifecycle": "validated_preset"
@@ -28,7 +39,52 @@
   "paletteSource": "style-default",
   "month": "2026-09",
   "displayDate": "2026-09-07",
-  "pageAssets": [],
+  "pageAssets": [
+    {
+      "src": "assets/episode-2026-09-07/cover.png",
+      "alt": "Q4 衝刺與新工具折騰",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    },
+    {
+      "src": "assets/episode-2026-09-07/beat-01.png",
+      "alt": "Q4 KPI 報告",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    },
+    {
+      "src": "assets/episode-2026-09-07/beat-02.png",
+      "alt": "Hermes Workflow 研究",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    },
+    {
+      "src": "assets/episode-2026-09-07/beat-03.png",
+      "alt": "新人討論 AI 報告規範",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    }
+  ],
   "episodeNumber": 5,
   "committedAt": "2026-09-07T00:00:00.000Z"
 }

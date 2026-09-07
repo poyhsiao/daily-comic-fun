@@ -381,7 +381,52 @@
       "paletteSource": "style-default",
       "month": "2026-09",
       "displayDate": "2026-09-07",
-      "pageAssets": [],
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-07/cover.png",
+          "alt": "Q4 衝刺與新工具折騰",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-07/beat-01.png",
+          "alt": "Q4 KPI 報告",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-07/beat-02.png",
+          "alt": "Hermes Workflow 研究",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        },
+        {
+          "src": "assets/episode-2026-09-07/beat-03.png",
+          "alt": "新人討論 AI 報告規範",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
       "episodeNumber": 5,
       "committedAt": "2026-09-07T00:00:00.000Z"
     }
