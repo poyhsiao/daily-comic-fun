@@ -1,0 +1,34 @@
+{
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-07-kpi-hermes-opencode-ai-report",
+  "episodeId": "episode-2026-09-07",
+  "title": "Q4 衝刺與新工具折騰",
+  "text": "準備公司第四季 KPI 報告，確認目標達成進度。\n研究 Hermes Agent 的 Workflow 功能，探索更結構化的流程引擎可能性。\n折騰 GitHub opencode 配置，修復了好幾個奇怪的環境問題。\n和新人開會，討論 AI 相關報告的規範與模板設計。",
+  "route": "S",
+  "recordedAt": "2026-09-07T00:00:00+08:00",
+  "eventDate": "2026-09-07",
+  "placement": "event-date",
+  "visualStatus": "pending",
+  "coverDirection": null,
+  "visualLayout": null,
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-07",
+  "pageAssets": [],
+  "episodeNumber": 5,
+  "committedAt": "2026-09-07T00:00:00.000Z"
+}
