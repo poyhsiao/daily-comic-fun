@@ -429,6 +429,108 @@
       ],
       "episodeNumber": 5,
       "committedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-08-yintai-emergency-full-team-mobilized",
+      "episodeId": "episode-2026-09-08",
+      "title": "銀泰急單與全力支援日",
+      "text": "一早聽到「銀泰」急單；了解新人對於 AI 的理解程度，並與團隊告知「銀泰」以及「揚秦」的專案狀態。所有後端工程師都將全力主攻這兩個專案。；告知團隊將提供 opencode go 相關 token 作為緊急補充；幫助和調整 cloudflare 相關設定；準備相關 hermes workflow 以及 skillhub 建置部分",
+      "route": "S",
+      "recordedAt": "2026-09-08T00:00:00+08:00",
+      "eventDate": "2026-09-08",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公室早晨，工程師持手機神情緊迫，桌上散落銀泰與揚秦專案文件",
+        "emotionVerb": "緊迫、動員、佈局",
+        "smallContrast": "一方面緊急動員，一面冷靜安排workflow建置",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-08/beat-01.png",
+            "alt": "銀泰急單"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-08/beat-02.png",
+            "alt": "團隊動員全力支援銀泰與揚秦"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-08/beat-03.png",
+            "alt": "OpenCode、Cloudflare、Hermes Workflow 建置"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-08",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-08/cover.png",
+          "alt": "銀泰急單與全力支援日",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped"
+        },
+        {
+          "src": "assets/episode-2026-09-08/beat-01.png",
+          "alt": "銀泰急單",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped"
+        },
+        {
+          "src": "assets/episode-2026-09-08/beat-02.png",
+          "alt": "團隊動員",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped"
+        },
+        {
+          "src": "assets/episode-2026-09-08/beat-03.png",
+          "alt": "技術建置",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped"
+        }
+      ],
+      "episodeNumber": 6,
+      "committedAt": "2026-09-08T13:13:20.189068Z"
     }
   ]
 }
