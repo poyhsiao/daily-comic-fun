@@ -59,9 +59,9 @@
       "kind": "textless-visual",
       "detectedFormat": "png",
       "transparencyStatus": "opaque",
-      "intrinsicWidth": 1024,
-      "intrinsicHeight": 1024,
-      "frameFitStatus": "cropped"
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
     },
     {
       "src": "assets/episode-2026-09-08/beat-01.png",
@@ -70,9 +70,9 @@
       "kind": "textless-visual",
       "detectedFormat": "png",
       "transparencyStatus": "opaque",
-      "intrinsicWidth": 1024,
-      "intrinsicHeight": 1024,
-      "frameFitStatus": "cropped"
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
     },
     {
       "src": "assets/episode-2026-09-08/beat-02.png",
@@ -81,9 +81,9 @@
       "kind": "textless-visual",
       "detectedFormat": "png",
       "transparencyStatus": "opaque",
-      "intrinsicWidth": 1024,
-      "intrinsicHeight": 1024,
-      "frameFitStatus": "cropped"
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
     },
     {
       "src": "assets/episode-2026-09-08/beat-03.png",
@@ -92,9 +92,9 @@
       "kind": "textless-visual",
       "detectedFormat": "png",
       "transparencyStatus": "opaque",
-      "intrinsicWidth": 1024,
-      "intrinsicHeight": 1024,
-      "frameFitStatus": "cropped"
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
     }
   ],
   "episodeNumber": 6,
