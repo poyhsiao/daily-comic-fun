@@ -138,7 +138,41 @@
       ],
       "episodeNumber": 6,
       "committedAt": "2026-09-08T13:13:20.189068Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-09-workday",
+      "episodeId": "episode-2026-09-09",
+      "title": "Q4 報告、假資料與開發標準",
+      "text": "早上做 Q4 RD 部門報告。下午與塑膠中心開會，需要大量假資料做 demo。與 RD 確認 Laravel 開發將遵循 Laravel Boost 為標準。完成並測試第一版 Hermes Workflow。",
+      "route": "S",
+      "recordedAt": "2026-09-09T00:00:00+08:00",
+      "eventDate": "2026-09-09",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": null,
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-09",
+      "pageAssets": [],
+      "episodeNumber": 13,
+      "committedAt": "2026-09-09T00:00:00+08:00Z"
     }
   ],
-  "updatedAt": "2026-09-08T13:13:36.776384Z"
+  "updatedAt": "2026-09-09T00:00:00+08:00Z"
 }
