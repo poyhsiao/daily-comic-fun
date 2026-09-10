@@ -2,12 +2,12 @@
   "schemaVersion": "1.0.0",
   "bookId": "my-comic-life",
   "title": "我的漫畫人生",
-  "nextEpisodeNumber": 7,
+  "nextEpisodeNumber": 10,
   "months": [
     {
       "month": "2026-09",
       "href": "monthly-volumes/2026-09/continuous-edition/index.html",
-      "episodeCount": 6
+      "episodeCount": 9
     }
   ],
   "parts": [
@@ -34,7 +34,10 @@
     "2026-09-03-daily": "episode-2026-09-03",
     "2026-09-07-kpi-hermes-opencode-ai-report": "episode-2026-09-07",
     "2026-09-01-daily-v5": "5d843add-c3ad-40d0-9908-ee4be98dff84",
-    "2026-09-08-yintai-emergency-full-team-mobilized": "episode-2026-09-08"
+    "2026-09-08-yintai-emergency-full-team-mobilized": "episode-2026-09-08",
+    "2026-09-10-ruizhang-customer-service-nightmare": "episode-2026-09-10-ruizhang",
+    "2026-09-10-yangqin-kickoff": "episode-2026-09-10-yangqin",
+    "2026-09-10-sa-discussion": "episode-2026-09-10-sa"
   },
-  "updatedAt": "2026-09-08T13:13:36.776307Z"
+  "updatedAt": "2026-09-10T13:12:24.501Z"
 }

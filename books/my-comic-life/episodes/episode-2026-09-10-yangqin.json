@@ -1,0 +1,50 @@
+{
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-10-yangqin-kickoff",
+  "episodeId": "episode-2026-09-10-yangqin",
+  "title": "揚秦專案 Kick-off Meeting",
+  "text": "下午啟動揚秦專案kick-off meeting，正式拉開序幕。",
+  "route": "S",
+  "recordedAt": "2026-09-10T00:00:00+08:00",
+  "eventDate": "2026-09-10",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "會議室投影幕亮著揚秦專案啟動畫面，團隊成員圍坐",
+    "emotionVerb": "啟動、振奮、期待",
+    "smallContrast": "早上還在傻眼，下午已滿血啟動新專案",
+    "grammar": "environment-transformation"
+  },
+  "visualLayout": null,
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-10",
+  "pageAssets": [
+    {
+      "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-yangqin/cover.png",
+      "alt": "揚秦專案 Kick-off Meeting",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "jpeg",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    }
+  ],
+  "episodeNumber": 8
+}

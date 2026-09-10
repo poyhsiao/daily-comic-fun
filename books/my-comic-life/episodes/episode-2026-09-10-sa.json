@@ -1,0 +1,50 @@
+{
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-10-sa-discussion",
+  "episodeId": "episode-2026-09-10-sa",
+  "title": "與 SA 討論工作內容",
+  "text": "和公司 SA 討論相關工作內容，針對技術方案與執行方向交換意見。",
+  "route": "S",
+  "recordedAt": "2026-09-10T00:00:00+08:00",
+  "eventDate": "2026-09-10",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "辦公桌前兩人對坐，筆電螢幕顯示技術架構圖，氣氛專注嚴謹",
+    "emotionVerb": "專注、討論、梳理",
+    "smallContrast": "靜靜地對談，沒有口號但處處共識",
+    "grammar": "conversation-focus"
+  },
+  "visualLayout": null,
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-10",
+  "pageAssets": [
+    {
+      "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-sa/cover.png",
+      "alt": "與 SA 討論工作內容",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "jpeg",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched"
+    }
+  ],
+  "episodeNumber": 9
+}

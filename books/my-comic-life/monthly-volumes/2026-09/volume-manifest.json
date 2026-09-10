@@ -172,6 +172,159 @@
       "pageAssets": [],
       "episodeNumber": 13,
       "committedAt": "2026-09-09T00:00:00+08:00Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-ruizhang-customer-service-nightmare",
+      "episodeId": "episode-2026-09-10-ruizhang",
+      "title": "瑞章晨會：客服的震撼發言",
+      "text": "早上與瑞章開會，聽到女客服在電話會議中公開吐槽自己公司沒有提供規格書，令人傻眼。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公室早晨會議桌，電話螢幕亮著，眾人表情驚訝或無語",
+        "emotionVerb": "傻眼、震驚、無奈",
+        "smallContrast": "電話那頭的人不知道自己說了什麼，會議室內一片寂靜",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-ruizhang/cover.png",
+          "alt": "瑞章晨會：客服的震撼發言",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
+      "episodeNumber": 7,
+      "committedAt": "2026-09-10T13:12:24.499Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-yangqin-kickoff",
+      "episodeId": "episode-2026-09-10-yangqin",
+      "title": "揚秦專案 Kick-off Meeting",
+      "text": "下午啟動揚秦專案kick-off meeting，正式拉開序幕。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "會議室投影幕亮著揚秦專案啟動畫面，團隊成員圍坐",
+        "emotionVerb": "啟動、振奮、期待",
+        "smallContrast": "早上還在傻眼，下午已滿血啟動新專案",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-yangqin/cover.png",
+          "alt": "揚秦專案 Kick-off Meeting",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
+      "episodeNumber": 8,
+      "committedAt": "2026-09-10T13:12:24.500Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-sa-discussion",
+      "episodeId": "episode-2026-09-10-sa",
+      "title": "與 SA 討論工作內容",
+      "text": "和公司 SA 討論相關工作內容，針對技術方案與執行方向交換意見。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公桌前兩人對坐，筆電螢幕顯示技術架構圖，氣氛專注嚴謹",
+        "emotionVerb": "專注、討論、梳理",
+        "smallContrast": "靜靜地對談，沒有口號但處處共識",
+        "grammar": "conversation-focus"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-sa/cover.png",
+          "alt": "與 SA 討論工作內容",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched"
+        }
+      ],
+      "episodeNumber": 9,
+      "committedAt": "2026-09-10T13:12:24.501Z"
     }
   ],
   "updatedAt": "2026-09-09T00:00:00+08:00Z"
