@@ -16,7 +16,15 @@
     "smallContrast": "電話那頭的人不知道自己說了什麼，會議室內一片寂靜",
     "grammar": "environment-transformation"
   },
-  "visualLayout": null,
+  "visualLayout": {
+    "beats": [
+      {
+        "beat": 1,
+        "src": "assets/episode-2026-09-10-ruizhang/cover.png",
+        "alt": "瑞章晨會：客服的震撼發言 內頁"
+      }
+    ]
+  },
   "style": {
     "id": "02-snow-pastel",
     "lifecycle": "validated_preset"
@@ -35,7 +43,7 @@
   "displayDate": "2026-09-10",
   "pageAssets": [
     {
-      "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-ruizhang/cover.png",
+      "src": "assets/episode-2026-09-10-ruizhang/cover.png",
       "alt": "瑞章晨會：客服的震撼發言",
       "role": "cover-visual",
       "kind": "textless-visual",
@@ -43,7 +51,8 @@
       "transparencyStatus": "opaque",
       "intrinsicWidth": 1080,
       "intrinsicHeight": 1440,
-      "frameFitStatus": "matched"
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
     }
   ],
   "episodeNumber": 7

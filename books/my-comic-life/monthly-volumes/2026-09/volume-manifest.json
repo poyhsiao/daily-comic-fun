@@ -33,7 +33,56 @@
       "paletteSource": "style-default",
       "month": "2026-09",
       "displayDate": "2026-09-03",
-      "pageAssets": [],
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-03/cover.png",
+          "alt": "界線與秩序 封面",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-01.png",
+          "alt": "界線與秩序 內頁2",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-02.png",
+          "alt": "界線與秩序 內頁3",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-03/beat-03.png",
+          "alt": "界線與秩序 內頁4",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
       "episodeNumber": 11,
       "committedAt": "2026-09-03T13:26:51.898Z"
     },
@@ -169,7 +218,68 @@
       "paletteSource": "style-default",
       "month": "2026-09",
       "displayDate": "2026-09-09",
-      "pageAssets": [],
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-09/cover.png",
+          "alt": "Q4報告、假資料與開發標準 封面",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-01.png",
+          "alt": "Q4報告、假資料與開發標準 內頁1",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-02.png",
+          "alt": "Q4報告、假資料與開發標準 內頁2",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-03.png",
+          "alt": "Q4報告、假資料與開發標準 內頁3",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-04.png",
+          "alt": "Q4報告、假資料與開發標準 內頁4",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
       "episodeNumber": 13,
       "committedAt": "2026-09-09T00:00:00+08:00Z"
     },
@@ -210,7 +320,7 @@
       "displayDate": "2026-09-10",
       "pageAssets": [
         {
-          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-ruizhang/cover.png",
+          "src": "assets/episode-2026-09-10-ruizhang/cover.png",
           "alt": "瑞章晨會：客服的震撼發言",
           "role": "cover-visual",
           "kind": "textless-visual",
@@ -218,7 +328,8 @@
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         }
       ],
       "episodeNumber": 7,
@@ -261,7 +372,7 @@
       "displayDate": "2026-09-10",
       "pageAssets": [
         {
-          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-yangqin/cover.png",
+          "src": "assets/episode-2026-09-10-yangqin/cover.png",
           "alt": "揚秦專案 Kick-off Meeting",
           "role": "cover-visual",
           "kind": "textless-visual",
@@ -269,7 +380,8 @@
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         }
       ],
       "episodeNumber": 8,
@@ -312,7 +424,7 @@
       "displayDate": "2026-09-10",
       "pageAssets": [
         {
-          "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-sa/cover.png",
+          "src": "assets/episode-2026-09-10-sa/cover.png",
           "alt": "與 SA 討論工作內容",
           "role": "cover-visual",
           "kind": "textless-visual",
@@ -320,7 +432,8 @@
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         }
       ],
       "episodeNumber": 9,

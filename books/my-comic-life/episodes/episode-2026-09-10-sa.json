@@ -16,7 +16,15 @@
     "smallContrast": "靜靜地對談，沒有口號但處處共識",
     "grammar": "conversation-focus"
   },
-  "visualLayout": null,
+  "visualLayout": {
+    "beats": [
+      {
+        "beat": 1,
+        "src": "assets/episode-2026-09-10-sa/cover.png",
+        "alt": "與 SA 討論工作內容 內頁"
+      }
+    ]
+  },
   "style": {
     "id": "02-snow-pastel",
     "lifecycle": "validated_preset"
@@ -35,7 +43,7 @@
   "displayDate": "2026-09-10",
   "pageAssets": [
     {
-      "src": "books/my-comic-life/monthly-volumes/2026-09/continuous-edition/assets/episode-2026-09-10-sa/cover.png",
+      "src": "assets/episode-2026-09-10-sa/cover.png",
       "alt": "與 SA 討論工作內容",
       "role": "cover-visual",
       "kind": "textless-visual",
@@ -43,7 +51,8 @@
       "transparencyStatus": "opaque",
       "intrinsicWidth": 1080,
       "intrinsicHeight": 1440,
-      "frameFitStatus": "matched"
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
     }
   ],
   "episodeNumber": 9
