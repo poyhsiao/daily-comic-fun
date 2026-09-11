@@ -7,7 +7,7 @@
     {
       "month": "2026-09",
       "href": "monthly-volumes/2026-09/continuous-edition/index.html",
-      "episodeCount": 9
+      "episodeCount": 10
     }
   ],
   "parts": [
@@ -37,7 +37,8 @@
     "2026-09-08-yintai-emergency-full-team-mobilized": "episode-2026-09-08",
     "2026-09-10-ruizhang-customer-service-nightmare": "episode-2026-09-10-ruizhang",
     "2026-09-10-yangqin-kickoff": "episode-2026-09-10-yangqin",
-    "2026-09-10-sa-discussion": "episode-2026-09-10-sa"
+    "2026-09-10-sa-discussion": "episode-2026-09-10-sa",
+    "2026-09-11-daily": "episode-2026-09-11"
   },
-  "updatedAt": "2026-09-10T13:12:24.501Z"
+  "updatedAt": "2026-09-11T00:00:00+08:00Z"
 }
