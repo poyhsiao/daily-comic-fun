@@ -531,6 +531,68 @@
       ],
       "episodeNumber": 6,
       "committedAt": "2026-09-08T13:13:20.189068Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-11-daily",
+      "episodeId": "episode-2026-09-11",
+      "title": "工作日常：AI Workshop、Brian、午餐、external service 與下週計劃",
+      "text": "每週的 AI workshop 由新人 Brian 主講，感覺還是缺乏訓練，完全照講稿念，真的還很欠鍛鍊。\n中午與老闆和 PM 一同午餐，既然不是主角，那就好好吃飯。\n下午主要在確認 external service，目前還是沒辦法有效的完成 docker image pull 的部分。\n下週應該要提供完整 RD 部門 token 使用計劃和公司其他部門模型選用計劃。\n下週需要跟 Kevin 討論建構 AI 應用 prototype。",
+      "route": "S",
+      "recordedAt": "2026-09-11T00:00:00+08:00",
+      "eventDate": "2026-09-11",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公桌前的規劃時刻：規劃文件與飲品，工作節奏切換的安靜過渡",
+        "emotionVerb": "沉澱、承接、預備",
+        "smallContrast": "表面平靜的一日，實則多線並進",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          { "beat": 1, "src": "assets/episode-2026-09-11/beat-01.png", "alt": "AI Workshop Brian 主講 vs 午餐平静" },
+          { "beat": 2, "src": "assets/episode-2026-09-11/beat-02.png", "alt": "Docker 困擾 vs 下週計劃" }
+        ]
+      },
+      "style": { "id": "02-snow-pastel", "lifecycle": "validated_preset" },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37", "soft": "#667487", "primary": "#78A8DC",
+        "pale": "#DBE9F7", "accent": "#C96355", "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-11",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-11/cover.png",
+          "alt": "工作日常：AI Workshop、Brian、午餐、external service 與下週計劃",
+          "role": "cover-visual", "kind": "textless-visual",
+          "detectedFormat": "png", "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080, "intrinsicHeight": 1440,
+          "frameFitStatus": "matched", "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-11/beat-01.png",
+          "alt": "AI Workshop Brian 主講 vs 午餐平静",
+          "role": "body-visual", "kind": "textless-visual",
+          "detectedFormat": "png", "transparencyStatus": "opaque",
+          "intrinsicWidth": 720, "intrinsicHeight": 512,
+          "frameFitStatus": "matched", "aspectClass": "landscape"
+        },
+        {
+          "src": "assets/episode-2026-09-11/beat-02.png",
+          "alt": "Docker 困擾 vs 下週計劃",
+          "role": "body-visual", "kind": "textless-visual",
+          "detectedFormat": "png", "transparencyStatus": "opaque",
+          "intrinsicWidth": 720, "intrinsicHeight": 512,
+          "frameFitStatus": "matched", "aspectClass": "landscape"
+        }
+      ],
+      "episodeNumber": 10,
+      "committedAt": "2026-09-11T00:00:00+08:00Z"
     }
   ]
 }
