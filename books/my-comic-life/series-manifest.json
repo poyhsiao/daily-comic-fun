@@ -7,7 +7,7 @@
     {
       "month": "2026-09",
       "href": "monthly-volumes/2026-09/continuous-edition/index.html",
-      "episodeCount": 10
+      "episodeCount": 11
     }
   ],
   "parts": [
@@ -38,7 +38,8 @@
     "2026-09-10-ruizhang-customer-service-nightmare": "episode-2026-09-10-ruizhang",
     "2026-09-10-yangqin-kickoff": "episode-2026-09-10-yangqin",
     "2026-09-10-sa-discussion": "episode-2026-09-10-sa",
-    "2026-09-11-daily": "episode-2026-09-11"
+    "2026-09-11-daily": "episode-2026-09-11",
+    "2026-09-14-daily": "episode-2026-09-14"
   },
-  "updatedAt": "2026-09-11T00:00:00+08:00Z"
+  "updatedAt": "2026-09-14T00:00:00+08:00Z"
 }

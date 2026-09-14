@@ -527,7 +527,113 @@
       ],
       "episodeNumber": 10,
       "committedAt": "2026-09-11T00:00:00+08:00Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-14-daily",
+      "episodeId": "episode-2026-09-14",
+      "title": "疼痛、計劃與開始",
+      "text": "今天的腰背非常痛，應該是昨晚趴著睡造成的。\n完成了對公司各個部門的 token 預算計劃的 PPTX。\n完成對公司的 live document 相關規劃的 PPTX。\n要求客服和 RD 不可隨意洩露公司程式相關內容。\n開始發送 YouTube 的英文視頻。",
+      "route": "S",
+      "recordedAt": "2026-09-14T00:00:00+08:00",
+      "eventDate": "2026-09-14",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公桌前，身體不適但仍在專注規劃的對比場景",
+        "emotionVerb": "疼痛、沉澱、開始",
+        "smallContrast": "身體痛苦時，腦中仍在組織計劃",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-14/beat-01.png",
+            "alt": "專注規劃工作"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-14/beat-02.png",
+            "alt": "完成兩份 PPTX 計劃"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-14/beat-03.png",
+            "alt": "開始發送 YouTube 英文視頻"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-14",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-14/cover.png",
+          "alt": "疼痛、計劃與開始 封面",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped",
+          "aspectClass": "square"
+        },
+        {
+          "src": "assets/episode-2026-09-14/beat-01.png",
+          "alt": "專注規劃工作",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped",
+          "aspectClass": "square"
+        },
+        {
+          "src": "assets/episode-2026-09-14/beat-02.png",
+          "alt": "完成兩份 PPTX 計劃",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped",
+          "aspectClass": "square"
+        },
+        {
+          "src": "assets/episode-2026-09-14/beat-03.png",
+          "alt": "開始發送 YouTube 英文視頻",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1024,
+          "intrinsicHeight": 1024,
+          "frameFitStatus": "cropped",
+          "aspectClass": "square"
+        }
+      ],
+      "episodeNumber": 11,
+      "committedAt": "2026-09-14T00:00:00+08:00Z"
     }
   ],
-  "updatedAt": "2026-09-11T00:00:00+08:00Z"
+  "updatedAt": "2026-09-14T00:00:00+08:00Z"
 }
