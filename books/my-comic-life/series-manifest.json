@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "bookId": "my-comic-life",
   "title": "我的漫畫人生",
-  "nextEpisodeNumber": 10,
+  "nextEpisodeNumber": 13,
   "months": [
     {
       "month": "2026-09",
@@ -39,7 +39,8 @@
     "2026-09-10-yangqin-kickoff": "episode-2026-09-10-yangqin",
     "2026-09-10-sa-discussion": "episode-2026-09-10-sa",
     "2026-09-11-daily": "episode-2026-09-11",
-    "2026-09-14-daily": "episode-2026-09-14"
+    "2026-09-14-daily": "episode-2026-09-14",
+    "2026-09-15-daily": "episode-2026-09-15"
   },
-  "updatedAt": "2026-09-14T00:00:00+08:00Z"
+  "updatedAt": "2026-09-15T00:00:00+08:00Z"
 }

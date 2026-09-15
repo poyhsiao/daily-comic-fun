@@ -633,7 +633,113 @@
       ],
       "episodeNumber": 11,
       "committedAt": "2026-09-14T00:00:00+08:00Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-15-daily",
+      "episodeId": "episode-2026-09-15",
+      "title": "神奇 Hermes、130 伏地挺身、與 iOS 的夜",
+      "text": "昨晚發現 Hermes agent cron job ticker bug，沒想到 Hermes 自己幫我發 issue，早上醒來已經修好了，效率太神了。\n一早身體很痛，但仍然撐完 130 個伏地挺身。\n早上確認要向老闆和主管報告揚秦規格書風險，確定 Asana 不可出現程式內容。\n安排週四上午 AI token 規劃與系統架構說明會議（2026/09/17 09:30-11:00）。\n中午發現 GitLab 嚴重漏洞，下班後加班完成更新。\n下午找到 OpsMaxx 解決 docker image 取得問題。\n晚上買便當、幫爸媽約好週四送機網約車。\n晚上更新 iOS 27，發現介面更鮮豔了，但大陸軟體因授權問題無法更新。",
+      "route": "S",
+      "recordedAt": "2026-09-15T00:00:00+08:00",
+      "eventDate": "2026-09-15",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公室深夜，電腦藍光映照房間，Hermes AI 介面顯示綠色完成標記，工程師趴在桌上安睡",
+        "emotionVerb": "神奇、感恩、撐過去",
+        "smallContrast": "前一分鐘還在修 bug，起床時已經自動修復了",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-15/beat-01.png",
+            "alt": "疼痛但完成 130 伏地挺身"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-15/beat-02.png",
+            "alt": "揚秦風險報告與週四 AI 會議安排"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-15/beat-03.png",
+            "alt": "GitLab 漏洞搶修與 OpsMaxx 發現"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-15",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-15/cover.png",
+          "alt": "神奇 Hermes 自己修 bug",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-01.png",
+          "alt": "疼痛但完成 130 伏地挺身",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-02.png",
+          "alt": "揚秦風險報告與週四 AI 會議安排",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-03.png",
+          "alt": "GitLab 漏洞搶修與 OpsMaxx 發現",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 12,
+      "committedAt": "2026-09-15T00:00:00+08:00Z"
     }
   ],
-  "updatedAt": "2026-09-14T00:00:00+08:00Z"
+  "updatedAt": "2026-09-15T00:00:00+08:00Z"
 }
