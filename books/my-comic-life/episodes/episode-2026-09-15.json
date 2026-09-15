@@ -22,17 +22,42 @@
       {
         "beat": 1,
         "src": "assets/episode-2026-09-15/beat-01.png",
-        "alt": "疼痛但完成 130 伏地挺身"
+        "alt": "事件 1"
       },
       {
         "beat": 2,
         "src": "assets/episode-2026-09-15/beat-02.png",
-        "alt": "揚秦風險報告與週四 AI 會議安排"
+        "alt": "事件 2"
       },
       {
         "beat": 3,
         "src": "assets/episode-2026-09-15/beat-03.png",
-        "alt": "GitLab 漏洞搶修與 OpsMaxx 發現"
+        "alt": "事件 3"
+      },
+      {
+        "beat": 4,
+        "src": "assets/episode-2026-09-15/beat-04.png",
+        "alt": "事件 4"
+      },
+      {
+        "beat": 5,
+        "src": "assets/episode-2026-09-15/beat-05.png",
+        "alt": "事件 5"
+      },
+      {
+        "beat": 6,
+        "src": "assets/episode-2026-09-15/beat-06.png",
+        "alt": "事件 6"
+      },
+      {
+        "beat": 7,
+        "src": "assets/episode-2026-09-15/beat-07.png",
+        "alt": "事件 7"
+      },
+      {
+        "beat": 8,
+        "src": "assets/episode-2026-09-15/beat-08.png",
+        "alt": "事件 8"
       }
     ]
   },
@@ -67,7 +92,7 @@
     },
     {
       "src": "assets/episode-2026-09-15/beat-01.png",
-      "alt": "疼痛但完成 130 伏地挺身",
+      "alt": "事件 1",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -79,7 +104,7 @@
     },
     {
       "src": "assets/episode-2026-09-15/beat-02.png",
-      "alt": "揚秦風險報告與週四 AI 會議安排",
+      "alt": "事件 2",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -91,7 +116,67 @@
     },
     {
       "src": "assets/episode-2026-09-15/beat-03.png",
-      "alt": "GitLab 漏洞搶修與 OpsMaxx 發現",
+      "alt": "事件 3",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-15/beat-04.png",
+      "alt": "事件 4",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-15/beat-05.png",
+      "alt": "事件 5",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-15/beat-06.png",
+      "alt": "事件 6",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-15/beat-07.png",
+      "alt": "事件 7",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-15/beat-08.png",
+      "alt": "事件 8",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
