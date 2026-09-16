@@ -5,8 +5,8 @@
   "idempotencyKey": "2026-09-16-daily",
   "episodeId": "episode-2026-09-16",
   "title": "與 Bruce 談平台 SaaS 化、規格書時程、批次溝通、與唯一的 NT",
-  "text": "早上和 Bruce 討論了標準化資料庫的需求、Data warehouse 的問題，以及平台 SaaS 化的需求——包括產品化標準，收費方式，服務計費方式，人員 on duty 需求，雲端需求等項目。\n需要跟公司同步規格書產出時間、給 RD 閱讀時間。\n跨部門的溝通方式應該批次討論。\n下午參加公司提供的 MBTI x 64 人格課程，測出 INTJ-AC 工作人格，公司唯一的 NT 長遠規劃型人格。",
-  "route": "M",
+  "text": "早上和 Bruce 討論了以下項目：\n- 標準化資料庫的需求\n- Data warehouse 的問題\n- 平台 SaaS 化的需求：相關產品化、標準化\n- 平台 SaaS 化的需求：收費方式\n- 平台 SaaS 化的需求：服務計費方式\n- 平台 SaaS 化的需求：人員 on duty 需求\n- 平台 SaaS 化的需求：雲端需求\n需要跟公司同步規格書產出時間、給 RD 閱讀時間。\n相關跨部門的溝通方式，應該批次討論。\n參加公司提供的 MBTI x 64 人格課程，測出 INTJ-AC 工作人格，公司唯一的 NT 長遠規劃型人格。",
+  "route": "S",
   "recordedAt": "2026-09-16T00:00:00+08:00",
   "eventDate": "2026-09-16",
   "placement": "event-date",
@@ -22,27 +22,52 @@
       {
         "beat": 1,
         "src": "assets/episode-2026-09-16/beat-01.png",
-        "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化"
+        "alt": "標準化資料庫的需求"
       },
       {
         "beat": 2,
         "src": "assets/episode-2026-09-16/beat-02.png",
-        "alt": "規格書產出時間與 RD 閱讀時間同步"
+        "alt": "Data warehouse 的問題"
       },
       {
         "beat": 3,
         "src": "assets/episode-2026-09-16/beat-03.png",
-        "alt": "跨部門批次討論溝通方式"
+        "alt": "平台 SaaS 化：產品化、標準化"
       },
       {
         "beat": 4,
         "src": "assets/episode-2026-09-16/beat-04.png",
-        "alt": "MBTI x 64 人格課程課堂"
+        "alt": "平台 SaaS 化：收費方式"
       },
       {
         "beat": 5,
         "src": "assets/episode-2026-09-16/beat-05.png",
-        "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格"
+        "alt": "平台 SaaS 化：服務計費方式"
+      },
+      {
+        "beat": 6,
+        "src": "assets/episode-2026-09-16/beat-06.png",
+        "alt": "平台 SaaS 化：人員 on duty 需求"
+      },
+      {
+        "beat": 7,
+        "src": "assets/episode-2026-09-16/beat-07.png",
+        "alt": "平台 SaaS 化：雲端需求"
+      },
+      {
+        "beat": 8,
+        "src": "assets/episode-2026-09-16/beat-08.png",
+        "alt": "規格書產出時間、給 RD 閱讀時間同步"
+      },
+      {
+        "beat": 9,
+        "src": "assets/episode-2026-09-16/beat-09.png",
+        "alt": "跨部門批次討論溝通方式"
+      },
+      {
+        "beat": 10,
+        "src": "assets/episode-2026-09-16/beat-10.png",
+        "alt": "MBTI INTJ-AC，唯一 NT 長遠規劃型人格"
       }
     ]
   },
@@ -65,7 +90,7 @@
   "pageAssets": [
     {
       "src": "assets/episode-2026-09-16/cover.png",
-      "alt": "與 Bruce 討論標準化、SaaS 化；規格書時程；批次溝通；MBTI INTJ-AC 課程",
+      "alt": "封面：與 Bruce 討論、SaaS 化、規格書時程、批次溝通、MBTI INTJ-AC",
       "role": "cover-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -77,7 +102,7 @@
     },
     {
       "src": "assets/episode-2026-09-16/beat-01.png",
-      "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化",
+      "alt": "標準化資料庫的需求",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -89,7 +114,7 @@
     },
     {
       "src": "assets/episode-2026-09-16/beat-02.png",
-      "alt": "規格書產出時間與 RD 閱讀時間同步",
+      "alt": "Data warehouse 的問題",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -101,7 +126,7 @@
     },
     {
       "src": "assets/episode-2026-09-16/beat-03.png",
-      "alt": "跨部門批次討論溝通方式",
+      "alt": "平台 SaaS 化：產品化、標準化",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -113,7 +138,7 @@
     },
     {
       "src": "assets/episode-2026-09-16/beat-04.png",
-      "alt": "MBTI x 64 人格課程課堂",
+      "alt": "平台 SaaS 化：收費方式",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
@@ -125,7 +150,67 @@
     },
     {
       "src": "assets/episode-2026-09-16/beat-05.png",
-      "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格",
+      "alt": "平台 SaaS 化：服務計費方式",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-16/beat-06.png",
+      "alt": "平台 SaaS 化：人員 on duty 需求",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-16/beat-07.png",
+      "alt": "平台 SaaS 化：雲端需求",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-16/beat-08.png",
+      "alt": "規格書產出時間、給 RD 閱讀時間同步",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-16/beat-09.png",
+      "alt": "跨部門批次討論溝通方式",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-16/beat-10.png",
+      "alt": "MBTI INTJ-AC，唯一 NT 長遠規劃型人格",
       "role": "body-visual",
       "kind": "textless-visual",
       "detectedFormat": "png",
