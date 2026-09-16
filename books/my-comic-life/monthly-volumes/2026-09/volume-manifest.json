@@ -739,6 +739,147 @@
       ],
       "episodeNumber": 12,
       "committedAt": "2026-09-15T00:00:00+08:00Z"
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-16-daily",
+      "episodeId": "episode-2026-09-16",
+      "title": "與 Bruce 談平台 SaaS 化、規格書時程、批次溝通、與唯一的 NT",
+      "text": "早上和 Bruce 討論了標準化資料庫的需求、Data warehouse 的問題，以及平台 SaaS 化的需求——包括產品化標準，收費方式，服務計費方式，人員 on duty 需求，雲端需求等項目。\n需要跟公司同步規格書產出時間、給 RD 閱讀時間。\n跨部門的溝通方式應該批次討論。\n下午參加公司提供的 MBTI x 64 人格課程，測出 INTJ-AC 工作人格，公司唯一的 NT 長遠規劃型人格。",
+      "route": "M",
+      "recordedAt": "2026-09-16T00:00:00+08:00",
+      "eventDate": "2026-09-16",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "會議室長桌，視圖由上方俯瞰，桌面攤開多份文件，中間有一張人格類型圖：INTJ 四個字母被螢光筆明顯標記",
+        "emotionVerb": "統整、聚焦、確認定位",
+        "smallContrast": "早上眾多討論項目，最終收斂成一種人格類型的自我確認",
+        "grammar": "typography-in-scene"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-16/beat-01.png",
+            "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-16/beat-02.png",
+            "alt": "規格書產出時間與 RD 閱讀時間同步"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-16/beat-03.png",
+            "alt": "跨部門批次討論溝通方式"
+          },
+          {
+            "beat": 4,
+            "src": "assets/episode-2026-09-16/beat-04.png",
+            "alt": "MBTI x 64 人格課程課堂"
+          },
+          {
+            "beat": 5,
+            "src": "assets/episode-2026-09-16/beat-05.png",
+            "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-16",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-16/cover.png",
+          "alt": "與 Bruce 討論標準化、SaaS 化；規格書時程；批次溝通；MBTI INTJ-AC 課程",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-01.png",
+          "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-02.png",
+          "alt": "規格書產出時間與 RD 閱讀時間同步",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-03.png",
+          "alt": "跨部門批次討論溝通方式",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-04.png",
+          "alt": "MBTI x 64 人格課程課堂",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-05.png",
+          "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 13,
+      "committedAt": "2026-09-16T00:00:00+08:00Z"
     }
   ],
   "updatedAt": "2026-09-15T00:00:00+08:00Z"
