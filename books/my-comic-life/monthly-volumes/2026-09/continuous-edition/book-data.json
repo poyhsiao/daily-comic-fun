@@ -5,280 +5,10 @@
     {
       "bookId": "my-comic-life",
       "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "qa-departure-meeting-20260901",
-      "episodeId": "ep-qa-meeting-20260901",
-      "title": "QA 離職交接會議",
-      "text": "QA 離職交接會議",
-      "route": "P",
-      "recordedAt": "2026-09-01T00:00:00+08:00",
-      "eventDate": "2026-09-01",
-      "placement": "event",
-      "visualStatus": "ready",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-01",
-      "pageAssets": [
-        {
-          "src": "assets/ep-qa-meeting-20260901/cover.png",
-          "alt": "QA 離職交接會議",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/photo-01-resignation.png",
-          "alt": "辭職信",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/photo-02-macmini.png",
-          "alt": "Mac mini 交接",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/photo-03-services.png",
-          "alt": "服務轉移",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/ep-qa-meeting-20260901/vignette.png",
-          "alt": "Mac mini 交接插圖",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "verified-transparent",
-          "intrinsicWidth": 512,
-          "intrinsicHeight": 512,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 1,
-      "committedAt": "2026-09-01T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "2026-09-01-daily-v5",
-      "episodeId": "5d843add-c3ad-40d0-9908-ee4be98dff84",
-      "title": "2026年9月1日",
-      "text": "完成備份。QA shiftleft docker測試。新 Android 工程師 onboard。RD 與 PM 溝通障礙調節。DevOps JD + self-hosted Sentry。",
-      "route": "S",
-      "recordedAt": "2026-09-01T00:00:00+08:00",
-      "eventDate": "2026-09-01",
-      "placement": "event-date",
-      "visualStatus": "ready",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-01",
-      "pageAssets": [
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/01.png",
-          "alt": "2026年9月1日封面",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/02.png",
-          "alt": "完成備份",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/03.png",
-          "alt": "新 Android 工程師",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/04.png",
-          "alt": "RD與PM調節",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/05.png",
-          "alt": "DevOps JD",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/5d843add-c3ad-40d0-9908-ee4be98dff84/06.png",
-          "alt": "Sentry",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 720,
-          "intrinsicHeight": 960,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 2,
-      "committedAt": "2026-09-01T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "2026-09-02-daily",
-      "episodeId": "episode-2026-09-02",
-      "title": "肅穆與交付",
-      "text": "公司中元節團拜，我擔任主祭。沒有香燭的科技公司，卻在這天多了幾分肅穆。調解 RD 與 PM 的內容產出矛盾，雙方節奏不同，各自退一步就能對得上。優化 GitHub repo 的多平台視頻發布功能，上傳一次就能同步推到 YouTube、X、Bilibili。",
-      "route": "S",
-      "recordedAt": "2026-09-02T00:00:00+08:00",
-      "eventDate": "2026-09-02",
-      "placement": "event-date",
-      "visualStatus": "ready",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-02",
-      "pageAssets": [
-        {
-          "src": "assets/episode-2026-09-02/cover.png",
-          "alt": "肅穆與交付",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-01.png",
-          "alt": "中元節團拜",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-02.png",
-          "alt": "橋樑",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-02/beat-03.png",
-          "alt": "交付",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 3,
-      "committedAt": "2026-09-02T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
       "idempotencyKey": "2026-09-03-daily",
       "episodeId": "episode-2026-09-03",
       "title": "界線與秩序",
-      "text": "與 Bruce 協調公司伺服器對內、對外機器的設置與搭配。要求 RD 部門：Asana 票只能回答票的相關內容，不得超越職責隨意給建議。與 RD 溝通職場倫理問題。",
+      "text": "與 Bruce 協調公司伺服器對內、對外機器的設置與搭配。\n要求 RD 部門：Asana 票只能回答票的相關內容，不得超越職責隨意給建議。\n與 RD 溝通職場倫理問題。",
       "route": "S",
       "recordedAt": "2026-09-03T00:00:00+08:00",
       "eventDate": "2026-09-03",
@@ -305,130 +35,55 @@
       "pageAssets": [
         {
           "src": "assets/episode-2026-09-03/cover.png",
-          "alt": "界線與秩序",
+          "alt": "界線與秩序 封面",
           "role": "cover-visual",
           "kind": "textless-visual",
           "detectedFormat": "png",
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         },
         {
           "src": "assets/episode-2026-09-03/beat-01.png",
-          "alt": "協調伺服器",
+          "alt": "界線與秩序 內頁2",
           "role": "body-visual",
           "kind": "textless-visual",
           "detectedFormat": "png",
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         },
         {
           "src": "assets/episode-2026-09-03/beat-02.png",
-          "alt": "規範 Asana 票",
+          "alt": "界線與秩序 內頁3",
           "role": "body-visual",
           "kind": "textless-visual",
           "detectedFormat": "png",
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         },
         {
           "src": "assets/episode-2026-09-03/beat-03.png",
-          "alt": "職場倫理",
+          "alt": "界線與秩序 內頁4",
           "role": "body-visual",
           "kind": "textless-visual",
           "detectedFormat": "png",
           "transparencyStatus": "opaque",
           "intrinsicWidth": 1080,
           "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         }
       ],
-      "episodeNumber": 4,
-      "committedAt": "2026-09-03T00:00:00+08:00"
-    },
-    {
-      "bookId": "my-comic-life",
-      "bookTitle": "我的漫畫人生",
-      "idempotencyKey": "2026-09-07-kpi-hermes-opencode-ai-report",
-      "episodeId": "episode-2026-09-07",
-      "title": "Q4 衝刺與新工具折騰",
-      "text": "準備公司第四季 KPI 報告，確認目標達成進度。\n研究 Hermes Agent 的 Workflow 功能，探索更結構化的流程引擎可能性。\n折騰 GitHub opencode 配置，修復了好幾個奇怪的環境問題。\n和新人開會，討論 AI 相關報告的規範與模板設計。",
-      "route": "S",
-      "recordedAt": "2026-09-07T00:00:00+08:00",
-      "eventDate": "2026-09-07",
-      "placement": "event-date",
-      "visualStatus": "pending",
-      "coverDirection": null,
-      "visualLayout": null,
-      "style": {
-        "id": "02-snow-pastel",
-        "lifecycle": "validated_preset"
-      },
-      "styleId": "02-snow-pastel",
-      "palette": {
-        "ink": "#202B37",
-        "soft": "#667487",
-        "primary": "#78A8DC",
-        "pale": "#DBE9F7",
-        "accent": "#C96355",
-        "paper": "#FFFFFF"
-      },
-      "paletteSource": "style-default",
-      "month": "2026-09",
-      "displayDate": "2026-09-07",
-      "pageAssets": [
-        {
-          "src": "assets/episode-2026-09-07/cover.png",
-          "alt": "Q4 衝刺與新工具折騰",
-          "role": "cover-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-07/beat-01.png",
-          "alt": "Q4 KPI 報告",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-07/beat-02.png",
-          "alt": "Hermes Workflow 研究",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        },
-        {
-          "src": "assets/episode-2026-09-07/beat-03.png",
-          "alt": "新人討論 AI 報告規範",
-          "role": "body-visual",
-          "kind": "textless-visual",
-          "detectedFormat": "png",
-          "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080,
-          "intrinsicHeight": 1440,
-          "frameFitStatus": "matched"
-        }
-      ],
-      "episodeNumber": 5,
-      "committedAt": "2026-09-07T00:00:00.000Z"
+      "episodeNumber": 11,
+      "committedAt": "2026-09-03T13:26:51.898Z"
     },
     {
       "bookId": "my-comic-life",
@@ -535,6 +190,257 @@
     {
       "bookId": "my-comic-life",
       "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-09-workday",
+      "episodeId": "episode-2026-09-09",
+      "title": "Q4 報告、假資料與開發標準",
+      "text": "早上做 Q4 RD 部門報告。下午與塑膠中心開會，需要大量假資料做 demo。與 RD 確認 Laravel 開發將遵循 Laravel Boost 為標準。完成並測試第一版 Hermes Workflow。",
+      "route": "S",
+      "recordedAt": "2026-09-09T00:00:00+08:00",
+      "eventDate": "2026-09-09",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": null,
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-09",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-09/cover.png",
+          "alt": "Q4報告、假資料與開發標準 封面",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-01.png",
+          "alt": "Q4報告、假資料與開發標準 內頁1",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-02.png",
+          "alt": "Q4報告、假資料與開發標準 內頁2",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-03.png",
+          "alt": "Q4報告、假資料與開發標準 內頁3",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-09/beat-04.png",
+          "alt": "Q4報告、假資料與開發標準 內頁4",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 13,
+      "committedAt": "2026-09-09T00:00:00+08:00Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-ruizhang-customer-service-nightmare",
+      "episodeId": "episode-2026-09-10-ruizhang",
+      "title": "瑞章晨會：客服的震撼發言",
+      "text": "早上與瑞章開會，聽到女客服在電話會議中公開吐槽自己公司沒有提供規格書，令人傻眼。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公室早晨會議桌，電話螢幕亮著，眾人表情驚訝或無語",
+        "emotionVerb": "傻眼、震驚、無奈",
+        "smallContrast": "電話那頭的人不知道自己說了什麼，會議室內一片寂靜",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-10-ruizhang/cover.png",
+          "alt": "瑞章晨會：客服的震撼發言",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 7,
+      "committedAt": "2026-09-10T13:12:24.499Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-yangqin-kickoff",
+      "episodeId": "episode-2026-09-10-yangqin",
+      "title": "揚秦專案 Kick-off Meeting",
+      "text": "下午啟動揚秦專案kick-off meeting，正式拉開序幕。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "會議室投影幕亮著揚秦專案啟動畫面，團隊成員圍坐",
+        "emotionVerb": "啟動、振奮、期待",
+        "smallContrast": "早上還在傻眼，下午已滿血啟動新專案",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-10-yangqin/cover.png",
+          "alt": "揚秦專案 Kick-off Meeting",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 8,
+      "committedAt": "2026-09-10T13:12:24.500Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-10-sa-discussion",
+      "episodeId": "episode-2026-09-10-sa",
+      "title": "與 SA 討論工作內容",
+      "text": "和公司 SA 討論相關工作內容，針對技術方案與執行方向交換意見。",
+      "route": "S",
+      "recordedAt": "2026-09-10T00:00:00+08:00",
+      "eventDate": "2026-09-10",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公桌前兩人對坐，筆電螢幕顯示技術架構圖，氣氛專注嚴謹",
+        "emotionVerb": "專注、討論、梳理",
+        "smallContrast": "靜靜地對談，沒有口號但處處共識",
+        "grammar": "conversation-focus"
+      },
+      "visualLayout": null,
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-10",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-10-sa/cover.png",
+          "alt": "與 SA 討論工作內容",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "jpeg",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 9,
+      "committedAt": "2026-09-10T13:12:24.501Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
       "idempotencyKey": "2026-09-11-daily",
       "episodeId": "episode-2026-09-11",
       "title": "工作日常：AI Workshop、Brian、午餐、external service 與下週計劃",
@@ -552,15 +458,30 @@
       },
       "visualLayout": {
         "beats": [
-          { "beat": 1, "src": "assets/episode-2026-09-11/beat-01.png", "alt": "AI Workshop Brian 主講 vs 午餐平静" },
-          { "beat": 2, "src": "assets/episode-2026-09-11/beat-02.png", "alt": "Docker 困擾 vs 下週計劃" }
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-11/beat-01.png",
+            "alt": "AI Workshop Brian 主講 vs 午餐平静"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-11/beat-02.png",
+            "alt": "Docker 困擾 vs 下週計劃"
+          }
         ]
       },
-      "style": { "id": "02-snow-pastel", "lifecycle": "validated_preset" },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
       "styleId": "02-snow-pastel",
       "palette": {
-        "ink": "#202B37", "soft": "#667487", "primary": "#78A8DC",
-        "pale": "#DBE9F7", "accent": "#C96355", "paper": "#FFFFFF"
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
       },
       "paletteSource": "style-default",
       "month": "2026-09",
@@ -569,26 +490,38 @@
         {
           "src": "assets/episode-2026-09-11/cover.png",
           "alt": "工作日常：AI Workshop、Brian、午餐、external service 與下週計劃",
-          "role": "cover-visual", "kind": "textless-visual",
-          "detectedFormat": "png", "transparencyStatus": "opaque",
-          "intrinsicWidth": 1080, "intrinsicHeight": 1440,
-          "frameFitStatus": "matched", "aspectClass": "portrait"
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
         },
         {
           "src": "assets/episode-2026-09-11/beat-01.png",
           "alt": "AI Workshop Brian 主講 vs 午餐平静",
-          "role": "body-visual", "kind": "textless-visual",
-          "detectedFormat": "png", "transparencyStatus": "opaque",
-          "intrinsicWidth": 720, "intrinsicHeight": 512,
-          "frameFitStatus": "matched", "aspectClass": "landscape"
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 720,
+          "intrinsicHeight": 512,
+          "frameFitStatus": "matched",
+          "aspectClass": "landscape"
         },
         {
           "src": "assets/episode-2026-09-11/beat-02.png",
           "alt": "Docker 困擾 vs 下週計劃",
-          "role": "body-visual", "kind": "textless-visual",
-          "detectedFormat": "png", "transparencyStatus": "opaque",
-          "intrinsicWidth": 720, "intrinsicHeight": 512,
-          "frameFitStatus": "matched", "aspectClass": "landscape"
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 720,
+          "intrinsicHeight": 512,
+          "frameFitStatus": "matched",
+          "aspectClass": "landscape"
         }
       ],
       "episodeNumber": 10,
@@ -699,6 +632,253 @@
       ],
       "episodeNumber": 11,
       "committedAt": "2026-09-14T00:00:00+08:00Z"
+    },
+    {
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-15-daily",
+      "episodeId": "episode-2026-09-15",
+      "title": "神奇 Hermes、130 伏地挺身、與 iOS 的夜",
+      "text": "昨晚發現 Hermes agent cron job ticker bug，沒想到 Hermes 自己幫我發 issue，早上醒來已經修好了，效率太神了。\n一早身體很痛，但仍然撐完 130 個伏地挺身。\n早上確認要向老闆和主管報告揚秦規格書風險，確定 Asana 不可出現程式內容。\n安排週四上午 AI token 規劃與系統架構說明會議（2026/09/17 09:30-11:00）。\n中午發現 GitLab 嚴重漏洞，下班後加班完成更新。\n下午找到 OpsMaxx 解決 docker image 取得問題。\n晚上買便當、幫爸媽約好週四送機網約車。\n晚上更新 iOS 27，發現介面更鮮豔了，但大陸軟體因授權問題無法更新。",
+      "route": "S",
+      "recordedAt": "2026-09-15T00:00:00+08:00",
+      "eventDate": "2026-09-15",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "辦公室深夜，電腦藍光映照房間，Hermes AI 介面顯示綠色完成標記，工程師趴在桌上安睡",
+        "emotionVerb": "神奇、感恩、撐過去",
+        "smallContrast": "前一分鐘還在修 bug，起床時已經自動修復了",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-15/beat-01.png",
+            "alt": "疼痛但完成 130 伏地挺身"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-15/beat-02.png",
+            "alt": "揚秦風險報告與週四 AI 會議安排"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-15/beat-03.png",
+            "alt": "GitLab 漏洞搶修與 OpsMaxx 發現"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-15",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-15/cover.png",
+          "alt": "神奇 Hermes 自己修 bug",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-01.png",
+          "alt": "疼痛但完成 130 伏地挺身",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-02.png",
+          "alt": "揚秦風險報告與週四 AI 會議安排",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-15/beat-03.png",
+          "alt": "GitLab 漏洞搶修與 OpsMaxx 發現",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 12,
+      "committedAt": "2026-09-15T00:00:00+08:00Z"
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-16-daily",
+      "episodeId": "episode-2026-09-16",
+      "title": "與 Bruce 談平台 SaaS 化、規格書時程、批次溝通、與唯一的 NT",
+      "text": "早上和 Bruce 討論了標準化資料庫的需求、Data warehouse 的問題，以及平台 SaaS 化的需求——包括產品化標準，收費方式，服務計費方式，人員 on duty 需求，雲端需求等項目。\n需要跟公司同步規格書產出時間、給 RD 閱讀時間。\n跨部門的溝通方式應該批次討論。\n下午參加公司提供的 MBTI x 64 人格課程，測出 INTJ-AC 工作人格，公司唯一的 NT 長遠規劃型人格。",
+      "route": "M",
+      "recordedAt": "2026-09-16T00:00:00+08:00",
+      "eventDate": "2026-09-16",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "會議室長桌，視圖由上方俯瞰，桌面攤開多份文件，中間有一張人格類型圖：INTJ 四個字母被螢光筆明顯標記",
+        "emotionVerb": "統整、聚焦、確認定位",
+        "smallContrast": "早上眾多討論項目，最終收斂成一種人格類型的自我確認",
+        "grammar": "typography-in-scene"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-16/beat-01.png",
+            "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-16/beat-02.png",
+            "alt": "規格書產出時間與 RD 閱讀時間同步"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-16/beat-03.png",
+            "alt": "跨部門批次討論溝通方式"
+          },
+          {
+            "beat": 4,
+            "src": "assets/episode-2026-09-16/beat-04.png",
+            "alt": "MBTI x 64 人格課程課堂"
+          },
+          {
+            "beat": 5,
+            "src": "assets/episode-2026-09-16/beat-05.png",
+            "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-16",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-16/cover.png",
+          "alt": "與 Bruce 討論標準化、SaaS 化；規格書時程；批次溝通；MBTI INTJ-AC 課程",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-01.png",
+          "alt": "與 Bruce 討論標準化資料庫、Data warehouse、SaaS 化",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-02.png",
+          "alt": "規格書產出時間與 RD 閱讀時間同步",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-03.png",
+          "alt": "跨部門批次討論溝通方式",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-04.png",
+          "alt": "MBTI x 64 人格課程課堂",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-16/beat-05.png",
+          "alt": "測出 INTJ-AC，唯一 NT 長遠規劃型人格",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 13,
+      "committedAt": "2026-09-16T00:00:00+08:00Z"
     }
   ]
 }
