@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0.0",
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-17-daily",
+  "episodeId": "episode-2026-09-17",
+  "title": "AI Token 全公司簡報、Hermes 工作流調整、與 GitLab Runner 防火牆維修",
+  "text": "早上跟老闆以及全公司的主管分享 AI token 規劃、當前系統架構、下班後的 AI token 消耗與規劃報告，老闆很滿意，下週開始提供相關 token 給全公司使用。\n花了很多時間調整 Hermes 上 repo-deep-research 和 full-research-pipeline 整個工作流相關的功能。\n下班前遇到 GitLab runner issue，發現是 firewall 的問題，快速修好，沒有影響下班。",
+  "route": "S",
+  "recordedAt": "2026-09-17T00:00:00+08:00",
+  "eventDate": "2026-09-17",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "明亮會議室，陽光從大窗洒入，投影幕顯示 AI token 系統架構圖與消耗曲線，老闆與多位主管專注聆聽，會議桌首坐著簡報者",
+    "emotionVerb": "滿意、推進、突破",
+    "smallContrast": "早上簡報成功說服老闆，下班前快速修好防火牆問題",
+    "grammar": "environment-transformation"
+  },
+  "visualLayout": {
+    "beats": [
+      {
+        "beat": 1,
+        "src": "assets/episode-2026-09-17/beat-01.png",
+        "alt": "AI Token 簡報成功，老闆滿意，宣佈下週提供全公司使用"
+      },
+      {
+        "beat": 2,
+        "src": "assets/episode-2026-09-17/beat-02.png",
+        "alt": "調整 Hermes repo-deep-research 與 full-research-pipeline 工作流"
+      },
+      {
+        "beat": 3,
+        "src": "assets/episode-2026-09-17/beat-03.png",
+        "alt": "快速修復 GitLab Runner Firewall 問題，準時下班"
+      }
+    ]
+  },
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-17",
+  "pageAssets": [
+    {
+      "src": "assets/episode-2026-09-17/cover.png",
+      "alt": "AI Token 全公司簡報、Hermes 工作流調整、GitLab Runner 防火牆維修",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-17/beat-01.png",
+      "alt": "AI Token 簡報成功",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-17/beat-02.png",
+      "alt": "Hermes 工作流調整",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-17/beat-03.png",
+      "alt": "GitLab Runner Firewall 修復",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    }
+  ],
+  "episodeNumber": 14,
+  "committedAt": "2026-09-17T00:00:00+08:00Z"
+}
