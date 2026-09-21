@@ -2,12 +2,12 @@
   "schemaVersion": "1.0.0",
   "bookId": "my-comic-life",
   "title": "我的漫畫人生",
-  "nextEpisodeNumber": 13,
+  "nextEpisodeNumber": 15,
   "months": [
     {
       "month": "2026-09",
       "href": "monthly-volumes/2026-09/continuous-edition/index.html",
-      "episodeCount": 11
+      "episodeCount": 13
     }
   ],
   "parts": [
@@ -40,7 +40,9 @@
     "2026-09-10-sa-discussion": "episode-2026-09-10-sa",
     "2026-09-11-daily": "episode-2026-09-11",
     "2026-09-14-daily": "episode-2026-09-14",
-    "2026-09-15-daily": "episode-2026-09-15"
+    "2026-09-15-daily": "episode-2026-09-15",
+    "2026-09-16-daily": "episode-2026-09-16",
+    "2026-09-21-daily": "episode-2026-09-21"
   },
-  "updatedAt": "2026-09-15T00:00:00+08:00Z"
+  "updatedAt": "2026-09-21T00:00:00.000Z"
 }

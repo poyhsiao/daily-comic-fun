@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.0.0",
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-21-daily",
+  "episodeId": "episode-2026-09-21",
+  "title": "GitLab 2FA 折騰、Lukas 風險報告、Hermes 模型切換、MiniMax 觀察、Sentry 白名單",
+  "text": "早上發現新版的 GitLab 無法正確使用 2FA：console 可以正確取得 PIN code，但 auth app 取出的資料錯誤，最後只能先停用 2FA 需求。和 Lukas 報告相關專案的風險問題、Brian 想轉 SA 的想法，以及相關票的進度。修改 Hermes agent 運行 full-research-pipeline 使用 m3 部分，盡量轉回 m2.7 模型。發現當前 minimax mmx 命令生圖，是使用 m3 的 token 計數，同時現在 minimax 看使用狀態更精準了點。安裝 Sentry 時，發現仍然很多 source 被阻擋，仍然要一個個開啟白名單。",
+  "route": "S",
+  "recordedAt": "2026-09-21T00:00:00+08:00",
+  "eventDate": "2026-09-21",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "工程師桌面場景，多個螢幕顯示 GitLab 2FA 錯誤、與 Lukas 開會、Hermes 模型設定、MiniMax API 儀表板、Sentry 阻擋警告，工程師忙碌又充實的一天",
+    "emotionVerb": "折騰、專注、解決",
+    "smallContrast": "早上被 GitLab 2FA 困擾，下午完成多項技術任務",
+    "grammar": "environment-transformation"
+  },
+  "visualLayout": {
+    "beats": [
+      {
+        "beat": 1,
+        "src": "assets/episode-2026-09-21/beat-01.png",
+        "alt": "GitLab 2FA 無法使用，只能先停用"
+      },
+      {
+        "beat": 2,
+        "src": "assets/episode-2026-09-21/beat-02.png",
+        "alt": "和 Lukas 報告風險與 Brian 轉 SA"
+      },
+      {
+        "beat": 3,
+        "src": "assets/episode-2026-09-21/beat-03.png",
+        "alt": "修改 Hermes full-research-pipeline 模型設定"
+      },
+      {
+        "beat": 4,
+        "src": "assets/episode-2026-09-21/beat-04.png",
+        "alt": "MiniMax mmx 生圖使用 m3 token 計數"
+      },
+      {
+        "beat": 5,
+        "src": "assets/episode-2026-09-21/beat-05.png",
+        "alt": "Sentry 眾多 source 被阻擋，一個個開白名單"
+      }
+    ]
+  },
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-21",
+  "pageAssets": [
+    {
+      "src": "assets/episode-2026-09-21/cover.png",
+      "alt": "GitLab 2FA、Lukas 報告、Hermes 模型、MiniMax token、Sentry 白名單",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-21/beat-01.png",
+      "alt": "GitLab 2FA 無法使用",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-21/beat-02.png",
+      "alt": "和 Lukas 報告風險",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-21/beat-03.png",
+      "alt": "Hermes 模型設定",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-21/beat-04.png",
+      "alt": "MiniMax token 觀察",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-21/beat-05.png",
+      "alt": "Sentry 白名單設定",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    }
+  ],
+  "episodeNumber": 15,
+  "committedAt": "2026-09-21T00:00:00+08:00Z"
+}
