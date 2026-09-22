@@ -1329,7 +1329,114 @@
       ],
       "episodeNumber": 15,
       "committedAt": "2026-09-21T00:00:00+08:00Z"
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-22-daily",
+      "episodeId": "episode-2026-09-22",
+      "title": "工程師開工了",
+      "text": "今天：女客服要離開，沒有波瀾，工程師終於能好好工作了；使用 omniroute 發現所有模型失效，折騰半天才發現是 firewall 來源未開；找到並開啟所有相關來源，功能全部恢復；一口氣完成 open code review 與 sentry 建置",
+      "route": "S",
+      "recordedAt": "2026-09-22T00:00:00+08:00",
+      "eventDate": "2026-09-22",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "工程師鍵盤場景，桌上鍵盤、馬克杯、筆電，暖黃檯燈光，白色乾淨房間",
+        "emotionVerb": "平靜、恢復、滿足",
+        "smallContrast": "firewall 開放後功能一口氣全部完成",
+        "grammar": "typescene-warm-desk"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-22/beat-01.png",
+            "alt": "客服離開，工程師專心"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-22/beat-02.png",
+            "alt": "firewall 未開，模型全線失效"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-22/beat-03.png",
+            "alt": "一口氣完成建置"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-22",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-22/cover.png",
+          "alt": "工程師開工了",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-22/beat-01.png",
+          "alt": "客服離開，工程師專心",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-22/beat-02.png",
+          "alt": "firewall 未開，模型全線失效",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-22/beat-03.png",
+          "alt": "一口氣完成建置",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 16,
+      "committedAt": "2026-09-22T00:00:00+08:00Z"
     }
   ],
-  "updatedAt": "2026-09-21T00:00:00+08:00Z"
+  "updatedAt": "2026-09-22T00:00:00+08:00Z"
 }
