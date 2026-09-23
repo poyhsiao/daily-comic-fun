@@ -1436,7 +1436,148 @@
       ],
       "episodeNumber": 16,
       "committedAt": "2026-09-22T00:00:00+08:00Z"
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "bookId": "my-comic-life",
+      "bookTitle": "我的漫畫人生",
+      "idempotencyKey": "2026-09-23-daily",
+      "episodeId": "episode-2026-09-23",
+      "title": "忙碌的技術日",
+      "text": "早上按掉鬧鐘有點睡過頭了，連簡單的伏地挺身都沒做；調整了 hermes 的相關設定，應該使用 minimax m3 token 更少，但消耗不明；設定了 sentry send mail 相關設定；幫 Robert 脫離 Brian 的牽絆；要求產生新的完整內容和動畫，Hyperframes 產生出來的效果還是很好的",
+      "route": "S",
+      "recordedAt": "2026-09-23T00:00:00+08:00",
+      "eventDate": "2026-09-23",
+      "placement": "event-date",
+      "visualStatus": "ready",
+      "coverDirection": {
+        "coreObject": "混搭漫畫格實驗風格，工作桌場景，鍵盤、螢幕、辦公桌面，Hyperframes 動畫效果疊加，雪色粉筆色調",
+        "emotionVerb": "忙碌、拖延、重新開始、看見結果",
+        "smallContrast": "鬧鐘按掉 vs 什麼都沒做；設定折騰 vs 效果良好",
+        "grammar": "environment-transformation"
+      },
+      "visualLayout": {
+        "beats": [
+          {
+            "beat": 1,
+            "src": "assets/episode-2026-09-23/beat-01.png",
+            "alt": "早上睡過頭，鬧鐘響了卻按掉"
+          },
+          {
+            "beat": 2,
+            "src": "assets/episode-2026-09-23/beat-02.png",
+            "alt": "調整 Hermes 設定，minimax token 消耗追蹤"
+          },
+          {
+            "beat": 3,
+            "src": "assets/episode-2026-09-23/beat-03.png",
+            "alt": "設定 Sentry send mail，整理流程"
+          },
+          {
+            "beat": 4,
+            "src": "assets/episode-2026-09-23/beat-04.png",
+            "alt": "Robert 脫離 Brian 的牽絆"
+          },
+          {
+            "beat": 5,
+            "src": "assets/episode-2026-09-23/beat-05.png",
+            "alt": "Hyperframes 產出優質動畫效果"
+          }
+        ]
+      },
+      "style": {
+        "id": "02-snow-pastel",
+        "lifecycle": "validated_preset"
+      },
+      "styleId": "02-snow-pastel",
+      "palette": {
+        "ink": "#202B37",
+        "soft": "#667487",
+        "primary": "#78A8DC",
+        "pale": "#DBE9F7",
+        "accent": "#C96355",
+        "paper": "#FFFFFF"
+      },
+      "paletteSource": "style-default",
+      "month": "2026-09",
+      "displayDate": "2026-09-23",
+      "pageAssets": [
+        {
+          "src": "assets/episode-2026-09-23/cover.png",
+          "alt": "忙碌的技術日，工作桌場景與 Hyperframes 動畫效果",
+          "role": "cover-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-23/beat-01.png",
+          "alt": "早上睡過頭，鬧鐘按掉",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-23/beat-02.png",
+          "alt": "調整 Hermes 設定，token 消耗追蹤",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-23/beat-03.png",
+          "alt": "設定 Sentry send mail",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-23/beat-04.png",
+          "alt": "Robert 脫離 Brian 的牽絆",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        },
+        {
+          "src": "assets/episode-2026-09-23/beat-05.png",
+          "alt": "Hyperframes 產出優質動畫效果",
+          "role": "body-visual",
+          "kind": "textless-visual",
+          "detectedFormat": "png",
+          "transparencyStatus": "opaque",
+          "intrinsicWidth": 1080,
+          "intrinsicHeight": 1440,
+          "frameFitStatus": "matched",
+          "aspectClass": "portrait"
+        }
+      ],
+      "episodeNumber": 17,
+      "committedAt": "2026-09-23T00:00:00+08:00Z"
     }
   ],
-  "updatedAt": "2026-09-22T00:00:00+08:00Z"
+  "updatedAt": "2026-09-23T00:00:00+08:00Z"
 }
