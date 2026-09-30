@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "1.0.0",
+  "bookId": "my-comic-life",
+  "bookTitle": "我的漫畫人生",
+  "idempotencyKey": "2026-09-30-daily",
+  "episodeId": "episode-2026-09-30",
+  "title": "沒有料的架構與有勁的比賽",
+  "text": "聽到 SA 的說明，連 Architecture 和 SA 都搞不清楚，感覺真的很沒有料；和 James 討論相關 AI 應用，準備舉辦公司的 AI 相關比賽，我也要準備相關比賽的遊戲規則；給全公司發送相關的 omniroute AI 相關設定的郵件，發現 Marvis 功能是 OK 的；更新了公司的 GitLab 和 omniroute，明天還需要更新 GitLab Runner 設定",
+  "route": "S",
+  "recordedAt": "2026-09-30T00:00:00+08:00",
+  "eventDate": "2026-09-30",
+  "placement": "event-date",
+  "visualStatus": "ready",
+  "coverDirection": {
+    "coreObject": "辦公桌與筆記型電腦，空中散開的珊瑚色節點網路，資訊很多但抓不到重點",
+    "emotionVerb": "困惑、沒有料、想比賽、穩定前進",
+    "smallContrast": "架構說明很空 vs 比賽籌備有勁",
+    "grammar": "environment-transformation"
+  },
+  "visualLayout": {
+    "beats": [
+      {
+        "beat": 1,
+        "src": "assets/episode-2026-09-30/beat-01.png",
+        "alt": "聽 SA 說明架構，越聽越覺得沒有料"
+      },
+      {
+        "beat": 2,
+        "src": "assets/episode-2026-09-30/beat-02.png",
+        "alt": "和 James 討論 AI 應用與公司 AI 比賽"
+      },
+      {
+        "beat": 3,
+        "src": "assets/episode-2026-09-30/beat-03.png",
+        "alt": "發送全公司 omniroute 設定郵件，Marvis 功能正常"
+      },
+      {
+        "beat": 4,
+        "src": "assets/episode-2026-09-30/beat-04.png",
+        "alt": "更新公司 GitLab 與 omniroute，隔天要調 Runner"
+      }
+    ]
+  },
+  "style": {
+    "id": "02-snow-pastel",
+    "lifecycle": "validated_preset"
+  },
+  "styleId": "02-snow-pastel",
+  "palette": {
+    "ink": "#202B37",
+    "soft": "#667487",
+    "primary": "#78A8DC",
+    "pale": "#DBE9F7",
+    "accent": "#C96355",
+    "paper": "#FFFFFF"
+  },
+  "paletteSource": "style-default",
+  "month": "2026-09",
+  "displayDate": "2026-09-30",
+  "pageAssets": [
+    {
+      "src": "assets/episode-2026-09-30/cover.png",
+      "alt": "沒有料的架構與有勁的比賽",
+      "role": "cover-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-30/beat-01.png",
+      "alt": "聽 SA 說明架構，越聽越覺得沒有料",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-30/beat-02.png",
+      "alt": "和 James 討論 AI 應用與公司 AI 比賽",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-30/beat-03.png",
+      "alt": "發送全公司 omniroute 設定郵件，Marvis 功能正常",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    },
+    {
+      "src": "assets/episode-2026-09-30/beat-04.png",
+      "alt": "更新公司 GitLab 與 omniroute，隔天要調 Runner",
+      "role": "body-visual",
+      "kind": "textless-visual",
+      "detectedFormat": "png",
+      "transparencyStatus": "opaque",
+      "intrinsicWidth": 1080,
+      "intrinsicHeight": 1440,
+      "frameFitStatus": "matched",
+      "aspectClass": "portrait"
+    }
+  ],
+  "episodeNumber": 18,
+  "committedAt": "2026-09-30T00:00:00+08:00Z"
+}
