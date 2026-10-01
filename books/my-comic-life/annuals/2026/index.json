@@ -5,7 +5,12 @@
     {
       "month": "2026-09",
       "href": "monthly-volumes/2026-09/continuous-edition/index.html",
-      "episodeCount": 11
+      "episodeCount": 14
+    },
+    {
+      "month": "2026-10",
+      "href": "monthly-volumes/2026-10/continuous-edition/index.html",
+      "episodeCount": 1
     }
   ]
 }
